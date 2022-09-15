@@ -22,7 +22,7 @@ const AboutUs = () => {
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+                explicabo nobis ex quo sarwar
               </p>
 
               <div className="about__counter">
